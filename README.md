@@ -1,4 +1,4 @@
-# Pewlett Hackard Work Force Analysis
+# Pewlett Hackard Workforce Analysis
 
 
 >Analyze the employee data to help prepare Pewlett Hackard managers for the wave of employees reaching retirement age and recommend strategies to not only mitigate the loss of skills and historical knowledge but also to be able to proactively maintain project productivity by initiating an employee mentorship program. 
